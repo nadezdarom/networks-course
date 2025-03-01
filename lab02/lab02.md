@@ -62,7 +62,17 @@
 запросы и ответы со стороны сервиса для **всех** его операций.
 
 #### Демонстрация работы
-todo
+![photo](images/pic_post.png)
+![photo](images/pic_get_1.png)
+![photo](images/pic_put.png)
+![photo](images/pic_delete.png)
+![photo](images/pic_get_2.png)
+![photo](images/pic_post_invalid.png)
+![photo](images/pic_get_not_exists.png)
+![photo](images/pic_put_invalid.png)
+![photo](images/pic_put_not_exists.png)
+![photo](images/pic_delete_not_exists.png)
+
 
 ### Задание В (4 балла)
 Пусть ваш продукт также имеет иконку (небольшую картинку). Формат иконки (картинки) может
@@ -84,7 +94,9 @@ todo
 ```
 
 #### Демонстрация работы
-todo
+
+![photo](images/pic_image_post.png)
+![photo](images/pic_image_get.png)
 
 ---
 
